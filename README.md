@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN developer.</h3>
 
 
-- 🔭 I’m currently working on [Resi Dorm](https://github.com/Sarthaknagarjii/Resi-Dorms)
+- 🔭 I’m currently working on [SHOPUP](https://github.com/Sarthaknagarjii/Ecommerce)
 
 - 🌱 I’m currently learning **ML**
 
