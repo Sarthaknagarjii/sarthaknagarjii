@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [SHOPUP](https://github.com/Sarthaknagarjii/Ecommerce)
 
-- 🌱 I’m currently learning **M**
+- 🌱 I’m currently learning ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
